@@ -1,4 +1,4 @@
-**Course Description: Introduction to SQL Server 2012 Integration Services (SSIS) Development and Administration**
+**Course Description:** Introduction to SQL Server 2012 Integration Services (SSIS) Development and Administration
 
 **Duration:** 3 days
 
