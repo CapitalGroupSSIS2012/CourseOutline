@@ -86,6 +86,13 @@ Students in the 3 days of SSIS 2012 development receive two course workbooks.
   - Using Data Viewers
   - Using Breakpoint
 
+- Script Tasks and Components
+  - Using the Script Task 
+  - Common uses of Script Tasks
+  - Script Components in Data Flow
+  - Transformation Script Component
+  - Source and Destination Script Components
+
 - Transactions
   - Working with Transactions
   - Creating Checkpoints
