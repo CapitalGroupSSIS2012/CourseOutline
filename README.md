@@ -74,22 +74,10 @@ Students in the 3 days of SSIS 2012 development receive two course workbooks.
   - Demonstration of SSIS Catalog with various environments
   - Running Packages with DTEXEC
 
-- Common ETL Scenarios
-  - Loading Data Incrementally
-  - Using the CDC Components in SSIS
-  - Using Data Quality Services
-  - Using the DQS Cleansing Transform
-  - Creating a Master Package
-
 - Containers
   - Using Sequence Containers to Organize a Package
   - Using For Loop Containers to Repeat Control Flow Tasks
   - Using the For Each Loop Container to Loop Through a Collection of Objects
-
-- Configuring Packages
-  - Easing Deployment with Configuration Tables
-  - Easing Deployment with Configuration Files
-  - Configuring Child Packages
 
 - Troubleshooting SSIS
   - Logging Package Data
@@ -97,11 +85,17 @@ Students in the 3 days of SSIS 2012 development receive two course workbooks.
   - Troubleshooting Errors
   - Using Data Viewers
   - Using Breakpoint
+
+- Transactions
   - Working with Transactions
   - Creating Checkpoints
 
-- Loading a Warehouse
-  - Dimension Load
-  - Fact Table Load
+- Deploying Packages and Projects
+  - SSIS Catalog
+  - Deploying Projects
+  - Deploying Packages
+  - Running Packages
+  - Using T-SQL and PowerShell to Run Packages
+  - Configuring Child Packages
 
 - Conclusion
